@@ -1,0 +1,584 @@
+Advice: 
+I suggest you watch the video and take notes, ask questions naturally. Then see how many of my questions you can answer.
+
+Objective: Define the basic hardware and software concepts associated with personal computers 
+https://www.youtube.com/watch?v=v2eVGxC8O-k&t=1s
+Mr. Houghton What IS a computer?
+
+Objective: organize, and manipulate file names, locations, and backups  
+Basic File manipulation
+Intro: Use this for our end of month essays! 
+The following Monday will be used to review my comments on the essay, and respond back! Then paste your link to canvas on that day when you’ve finished responding.
+Backups are important, the general rule is the 321 rule, 3 backups in 2 different places with 1 being offsite! Everyone’s going to be burned at least once by this so.. I sort of feel like lecturing you about backups won’t do any of us any good. 
+What I like about Google docs is they save it automatically so you don’t have to worry about accidentally shutting down without saving… but regardless here is the lesson with your truly:
+https://www.youtube.com/watch?v=buM0cqq8ltU&t=1s  Mr. Houghton
+
+Objective: Define the basic hardware and software concepts associated with personal computers 
+Computer Parts
+https://www.youtube.com/watch?v=ExxFxD4OSZ0 what does what in your computer 
+Questions:
+What parts in this diagram are you unfamiliar with? For example: power supply, fan, gpu, cpu, etc
+What 2 categories did he break these parts into?
+What does power supply regulate?
+What devices deal with data?
+What’s another name for CPU?
+Answer:
+Opinion
+Simple and complex
+Power! It’s like a charger block
+Cpu, ram, hard drive, graphics card
+
+
+
+Objective: Describe how to navigate the operating system
+https://www.youtube.com/watch?v=LLj3x2CM2ME Mr. Houghton! 16 min
+(this is a lesson to use in CIS 124 as well!)
+Questions:
+What are operating systems?
+What’s hardware? What’s software?
+What is an example of an OS “war?” 
+What is a synonym for a program?
+What are utilities for?
+What is a desktop?
+Answers:
+A bridge between hardware and software
+Mouse, keyboard, ram, cpu 
+Apple vs. Windows
+System software
+manage , repair or optimize data on a computer
+The screen you see after logging in
+
+
+
+
+Objective: Describe the 4 parts of an Operating System
+https://www.youtube.com/watch?v=yKm6893ihjU&t=1s Mr. Houghton 17min
+Questions
+What is an operating system?
+What do each of these acronyms stand for: pm, fm, dm, mm
+What does the process manager do?
+What does the memory manager do?
+What does a File manager do?
+What is a device manager?
+
+Answers
+Variety
+See below
+Process manager - takes care of the input, and prioritizes tasks coming in
+The memory manager is all about RAM! Optimizing the organization of space in RAM
+ the file manager is similar but focuses on the way files are dealt with at the hard drive level, data can be stored in different ways and the file manager determines that.
+  Similiar to 
+
+MyNotes
+-I like how you can see the different applications in different OSs that can open the variety of binary files, fileinfo looks like a cool website
+-webopedia is dense! .dir is not a file but a folder, however the word file is thrown around often… and on linux if you don’t know what a file is, like what type you can enter the command “file nameOfThing” 
+-3 types of files that exist  regular, directory, special
+15 videos in Unit 2 CSP -how digital information is encoded and represented-
+https://www.youtube.com/watch?v=pIVCbUiY6vI&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k 
+Mr. Houghton Day 1 Data Units
+Objective: Manipulate standard units for measuring digital files (data) 7min
+Intro: The greatness about this lesson is you’ll walk away being able to tell the difference between MegaByte and gigabyte! 
+Questions:
+Where have you seen units of data before?
+How large is an average email?
+How large is 1 min of music?
+What does burger king makes great toast stand for? BKMGT
+Answers
+Variety
+15 kB
+Bytes, kilo, mega, giga, tera
+
+MyNotes
+-chart @1:51
+-one email (txt only) 15 kB
+-one minute of music = 1 MB
+-one minute of HD  vid = 10 MB
+Alternative / Addition to me:
+https://www.youtube.com/watch?v=cJNm938Xwao&list=PLTd6ceoshprcpen2Jvs_JiuvWvqIAkzea 9min Kevin Drumm “Converting to and from Denary” 
+Intro: This is a great video if you’ve never seen or heard of Binary before, and this will reinforce my introduction on binary. 
+Question
+What is denary? What is binary?
+What is a subscript?
+Show me you can add two binary numbers
+What is place value?
+
+Alternative / Addition to me:
+Objective: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=jHQ_OdA-8IU intel i9 explained 10min
+Intro: This is a great video to help you wrap your head around speed measured in hz and the idea that cores will play a role in a chips performance, and therefore don’t just stare at the “raw” speed a chip maker boasts.
+“Intel's new i9-9900K is the companies first wide-release 5GHz chip, and its first 8-core consumer processor”
+Questions: 
+What does “game mode” do?
+What company makes the Ryzen chip?
+What is boost speed?
+Why do overclockers go nuts over thermal paste?
+Hyperthreading is good for what?
+DOL: What is the hardware component we studied today, and how does this enable computers to function?
+Sentence Starter: Intel’s i9 processor chip….
+Answers:
+Turns off half the cores
+AMD
+I don’t know!
+Because it doesn’t spread heat as well as sodder
+Video rendering
+MyNotes
+-Streaming and video rendering is where the i9 will shine (logical, yes)
+Alternative / Addition to me:
+https://www.youtube.com/watch?v=mRvcGijXI9w&index=2&list=PLTd6ceoshprcpen2Jvs_JiuvWvqIAkzea 12min Two’s Complement to represent negative numbers -Kevin Drumm
+Intro: If you liked the intro video to binary from Kevin Drumm, he takes no time in getting really compllicated in this follow up video. I like 2s complement, its a great example of a nifty trick computer scientist used to represent negative numbers. Why does he say “do the maths,” well English speakers from New Zealand, or Australia like to say “maths” instead of “math” like we do in America, but it means the same thing! That phrase tripped me up in the beginning I thought it might be like, more complicated.
+Questions
+What change do we make to represent negative numbers?
+Why is this a useful way to represent negative numbers?
+Convert -6 into 8 bit binary (this just means your left most bit is 1) so you have 7 to work with.
+Answ
+Change the left most bit to 1
+This mechanism allows computers to do subtract with binary, I’ll also accept the answer “it’s good for computers” after all that’s the point of studying binary! 
+1111101
+MyNotes
+-I had a question one time about the reason I kept seeing “96” in a networking book. Well I realized there is a difference between the place value, value such as 128, 64, 32, etc and the additional value of those place values when added together. So 64+32 is 96 thus, that value kept popping up everywhere. Now 96 is my favorite linemen number! 
+Internet 101
+https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-wires-cables-and-wifi 
+
+Alternative / Addition to me:
+https://www.youtube.com/watch?v=ptzGI9VaZmQ Computer Clan 9min “What are bits”
+Questions:
+What is the number 3 in binary?
+When you have all 8 bits turned on, what decimal value do you have?
+What is “color depth” 
+How many bits are “true color”
+How many colors can the human eye discern? 
+What does more RAM mean?
+Answ
+11 or 00000011
+255 (we say we have 256 options though b/c all zeros is an encoding option)
+It’s the amount of color an image can have, the more bits you have the more color you can have
+24 bits so that’s 00000000000000000000 places
+About 10 million colors
+Faster multitasking and less Disk activity
+
+MyNotes
+-I don’t like using the exponent way to calculate… 
+-4 bits would only give us black and white pictures, 2 bits would give us “true” black and white
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: Explain why the optimal amount of compression is impossible or hard to identify. Day 2 Compression, 5min  https://youtu.be/NyVO1N9dL0g?list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k 
+Intro: Compression is fun to learn about, you’ll get a chance to “play” with compression by substituting patterns with symbols. I think the ability to identify patterns in life is one of the greatest skills you can have as a human! But also, it’s important for computers and today you’ll learn why. 
+Compression widget link: https://studio.code.org/s/csp2/stage/2/puzzle/3 
+Question:
+What is compression?
+Why would we need to compress something? What is the point?
+After practicing with the widget students will quickly realize you can spend days maybe weeks trying to find a way to better compress, which means you get to the point where what you go will be good enough…. So Is there a way to know when you’ve compressed something the most? Explain why you can or can’t know.
+Answers
+The act of making something small from something big
+To save storage space, for obvious reasons...
+Alternative / Addition to me:
+-You’ll have plenty to play with in that compression widget 
+
+Hhttps://www.youtube.com/watch?v=OtDxDvCpPL4&t=689s Crash Course Comopression 12min
+Questions:
+What three colors make up a pixel?
+What is run-length encoding?
+What is lossless compression?
+Answers
+Red Green Blue
+It’s a way of compressing images, in this sense a number is used to describe the “run” meaning the amount of pixels that will contain the same exact value in a row, for example a blue sky…
+A technique to make sure nothing is “lost” in the compression
+MyNotes
+-David Albert Huffman… Huffman tree
+-his algorithm involves counting the number of a pattern, and once this “frequency” is determined we assign it the lowest bit value we can.
+https://www.youtube.com/watch?v=QXjU9qTsYCc Frame of Essence how computers compile 
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=icVUvIhP52k&index=3&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k Mr. Houghton Day 2.1 Compression 9min
+Objective: Solve small world problems that require reasoning about file sizes
+Questions:
+What is a byte offset?
+What is the “offset” of your name?
+How many bytes do I have if I have a 4 byte offset?
+Plain text = 1 byte per letter, docx = a lot! b/c ...formatting. So what’s the difference between “hello” in .txt vs .docx?
+Will 2,600 MB fit on a 4 GB jump drive?
+(DOL) How much storage, aka data, will 20 hours of ghost recording mp3 files take up? 
+Answers
+The number of bits from the base address. In programming with assembly you’ll have a base pointer, so all the bits from the start of the code to the base, the end, is the byte offset. 
+For Rob it’s 8 bytes
+4 bytes! 
+5 bytes vs 21,969 bytes so … 21,964 bytes
+If compression is used, silence can be taken out so it’s very hard to say. But based on the chart: 20 hrs x 60min x 30MB = 36000 or 36 GB
+myNotes:
+Mp3 audio = 1 min = 30 MB
+Alternative / Addition to me:
+https://www.youtube.com/watch?v=Xpk67YzOn5w h3v 7min Why Do Computers Use 1s and 0s? Binary and Transistors Explained.
+Objective: Define the basic hardware and software concepts associated with personal computers
+https://youtu.be/v2eVGxC8O-k Mr. Houghton What is a Computer 
+Questions:
+What is the name of the key component in a computer? What is a synonym?
+How do integrated circuits play a role in making a computer work?
+What are the basic building blocks of a circuit?
+What are the 4 items in our “is it a computer” checklist?
+What is a motherboard?
+----------------------
+Alternative / Addition to me:
+https://www.youtube.com/watch?v=IR0e9hdSkI0 NCIX Tech Tips 8min GPU Specs Basics
+Intro: A video like this might make your head spin with all the types of jargon associated with gpus but it’s ok b/c you can pause! So pause and ask questions or google stuff… but also just pause so you can write down these terms and begin the process of digesting all the specs of a GPU. 
+Questions
+What does GPU stand for?
+What is SLi and Crossfire?
+Architecture changes will affect what?
+What is Vram?
+What is Memory bus width? Memory bandwidth? By answering this you’ll be pointing out the difference. 
+What are your questions?
+What are benchmarks?
+Answers
+Graphics processing unit
+The name of these two companies ability to support multi gpu performance. These are names for their multi gpu connections. So if I say Destiny supports SLi I’m saying on AMD graphic cards I can utilize the dual gpu’s 
+Power consumptions, speed / # of transistors, usable memory, etc.
+Video memory
+Bandwidth is referring to the # of bits the clock can get through the gpu. The bus width is the # of bits able to travel between memory and gpu. These #s are related obviously. It’s like 
+Any
+The only way to really understand the specs of a video card / gpu 
+MyNotes
+-AMD and Nvideo are the biggest makers, Radeon is AMD’s and GTX is Nvidia
+-Radeon pro dual has 2 GPUs on one card
+-the benefit of this will depend on the game’s support for dual gpus
+-4GB of vRAM is the sweet spot for 1080p 
+-development in architecture will make the clock numbers less relevant
+-Boost clock is interesting, it can speed the card up depending on what’s going on
+-Nvidia’s custom programming language = CUDA and they talk about the # of CUDA cores in a gpu b/c the language will utilize this number… I’ve written some CUDA and it can be embedded in a c++ file, if you use __global__ you’ll basically command the computer to utilize the gpu to execute the code instead of the cpu
+-In AMD these same cores are called Stream Processors ggrrr…. Company semantics
+-Texture Units
+-ROPs
+-AMD RX480
+-22 nm processor, I need to get better at understanding nano meters
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=t9loi3J-i9A&index=4&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k Mr. Houghton Encoding B&W images 11min
+Intro: This is a great lesson to introduce you to the concept of encoding images, and the lesson ends by giving you a real life example of how messages might be more powerful than words especially in the context of sending messages to aliens! 
+Questions:
+What information will need to be included to reconstruct an image?
+Will your encoding scheme work with the ‘code’ image?
+How many black squares ill you have using the following byte: 0000 0011?
+What is the arecibo message?
+How would you change this message?
+https://studio.code.org/s/csp2/stage/3/puzzle/3 solve the puzzle! 
+
+Alternative / Addition to me:
+How does a GPU work? (9min)
+https://www.youtube.com/watch?v=5BiAlaFGCoE 
+How many transistors are in the gpu at the beginning of the video? (the num starts w/ an “s”)
+What are the “arrays of cores” handling?
+What is a vertex shader?
+What is a texture mapping unit (TMU)?
+Draw a picture of the Geometry Processor.
+What is the crystal oscillator doing on a motherboard?
+What two things have an “interesting” relationship?
+What is overclocking? 
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=m2w2egkJ-4Q&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k&index=5 Mr. Houghton Encoding with Color 8min 
+Intro: Furthering our knowledge of bits being used for b&w images, we will now learn how color is added to an image. 
+Questions:
+What is hexadecimal?
+What is hexadecimal good for?
+How do you create color on a computer screen?
+Is hexadecimal related to compression?
+How many bits or bytes are required to encode 25 pixels wide and 50 pixels tall if you have 24 bits per pixel for color.
+If you have an image that is too dark, what mathematical concept could you use to improve that image? Remember the more light you have, the brighter something is.
+What is metadate?
+Answers
+It’s a base 16 number sys used for visualizing the bytes that exist in a computer
+Visualizing the space information or instructions take up in computer memory, particularly ram!
+Mixing light together
+No
+The answer is literally in the video. 3,753 bytes
+Addition, just add to the RGB value equally! 
+In this scenario, data about the height and width of an image
+Alternative / Addition to me:
+Old School graphics lesson (short, very fun lesson) 
+https://www.youtube.com/watch?v=Tfh0ytz8S0k&t=314s 8bit guy 7min
+https://www.youtube.com/watch?v=_rsycfDliZU part 2 8bit 5min
+What is a 1 bit screen?
+We can then divide the screen into 8 by 8 areas, but what limit do these “color cells,” have?
+What keyword did he type to execute his program? (@6:15)
+How many sprites is mario made of? 
+(Part 2) What is a monochrome screen?
+MyNotes:
+Multicolor mode made the pixels fatter. You trade in some resolution for more color. So in a 4x4 area you have 2 colors and an 8x8 area will give you 4 colors! 
+When he says video chip, he means gpu right?
+Video generator takes up 90% of the cpu (in old days?)
+
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=vUp4BF43NiQ&index=6&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k Mr. Houghton Encoding Color part 2, 8min
+Intro: This video goes over a code.org video to begin with. Her demonstration is great to visualize the changes this pixelation widget can create, today’s a fun day because we get to experiment with those binary changes. 
+Questions:
+Create some pixel art! https://studio.code.org/s/csp2/stage/4/puzzle/3 
+Use hexadecimal to create one row of red,green and blue (bonus, make the last row grey). Please paste the hex values for those rows right here as an answer.
+What is a favicon?
+Do you have a favorite company logo?
+Alternative / Addition to me:
+Today’s Additional video is for the big time coder, the person VERY interested in acually coding so continu at your own risk of boredom! This guy’s code is copyrighted so we can’t just put it on our github profiles 
+https://www.youtube.com/watch?v=xW8skO7MFYw Code Yourself FPS in c++
+Questions:
+How many lines of code does he use to create this?
+Typeout the code he types, I suggest pause every 5 minutes or so, get as much as you can, I’ll be very forgiving with this grade. 
+What is unicode?
+Answers:
+1.200 lines!
+#include <iostream> using namespace std;
+Int main()
+… look at my vsCode for the rest! 
+3. Unicode Unicode is a superset of ASCII, and the numbers 0–128 have the same meaning inASCII as they have in Unicode. ... Because Unicode characters don't generally fit into one 8-bit byte, there are numerous ways of storing Unicode characters in byte sequences, such as UTF-32 and UTF-8.
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=xoNjbFhYb50&index=7&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k 
+Objective: Explain the difference between lossy and lossless compression
+Intro: Now that you guys know more about bits and bytes, AND compression we will put those 2 concepts together to better understand compression.
+https://studio.code.org/projects/applab/hxXJIEGg2yza_Q7t9W04xg/view Widget Link
+Questions:
+What is compression?
+What is decompression?
+What’s the difference between lossy and lossless?
+What is hard to program into AI?
+Which type of files uses lossless compression and which ones are lossy? BMP, WAV, JPEG, GIF, MP3, ZIP.
+What are three differences that can exist between file formats?
+Answers:
+Making something big smaller…
+Basically the opposite, like opening it up. 
+Just what the words say! 
+Context
+Lossy:
+A difference in compression, quality such as color, and metadata
+Alternative / Addition to me:
+Image File formats: https://www.youtube.com/watch?v=ww12lImOJ38 vid is done at 5:21 Techquickie
+Questions
+What does jpeg stand for?
+What’s a benefit of jpeg?
+How does it do this benefit?
+Why are GIFs nice?
+What is a drawback of a GIF?
+Answers
+Joint photographic experts group
+Saves a lot of space (so it’s lossy!)
+The format compares 8 by 8 blocks of bits
+They are lossless! 
+They are limited to 256 colors, so for really good quality use a PNG
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+ https://www.youtube.com/watch?v=r-8iNjd-HPY&index=8&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k 
+Mr. Houghton Encoding an Experience 11min
+Objective: Choose a binary encoding for a specific piece of information and justify that choice
+Intro: This is a great lesson concerning abstraction, so buckle up and be comfortable with “plowing through” learning even when the electrical foundation of computers is not evident.
+Question
+What is an abstraction?
+What is a procedure? 
+What are the 4 steps 
+What is a protocol? 
+What is an oscilloscope? 
+Set yourself up for the next lesson: Pick an experience you’d like to encode, what is it? Describe the experience in as much detail as you can, we will encode that detail next time! 
+Answers
+Hard to define, variety
+A way to do something
+First binary numbers, then text, then formatted text, then images
+An agreement on how to transmit data (like on the internet) you can encode protocols but that is graduate level study! 
+Something we can use to see the bits, and then make inferences to the encoding of those bits by the output we can witness via a terminal or computer monitor
+Alternative / Addition to me:
+You want graduate level? Well here it is! This is ridiculously high level stuff but I’m curious if anyone wants to dive into this. What a great study of abstraction comparing hardware and software concepts! You literally type in the words encode, decode when using swift that communicates to the hardware what encoding protocol will be used. 
+https://www.youtube.com/watch?v=V9OmySqbBK4 13min Encoding Objects in IOS apps
+Question
+What is NSKeyedArchiver?
+What is NSCoding protocol?
+What language do you notice him using? Hint* check the file extension.
+What type of code is found in the library.swift?
+What does he add to book.swift to the book class to make the ability to save to disk work?
+Answ
+Converts objects into bytes
+aCoder.encodeObject(firstName, forKey: “FirstName”) but in english this protocol saves data to a computer hard disk. 
+Swift
+The title of the books and it’s authors, it looks through and prints it out. Also some publishing info like the date and number of pages
+He adds NSCoding to make sure the object conforms to the protocol. He types class book: NSObject, NSCoding
+MyNotes
+-guard statement checks to make sure those properties are accessible to the book class
+-if it’s not in the decoder you can exit the initializer 
+-
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Mr. Houghton Encoding with a top down design: 9min https://www.youtube.com/watch?v=OcVbRY2fi6I&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k&index=9 
+Objective: choose a binary encoding for specific pieces of information and justify those choices
+Questions
+Create this chart: component | type | Number of bits | Description
+Fill in the chart! You should have at least 3 major components with at least 2 data types
+Answers
+Done?
+Alternative / Addition to me:
+GUI in Crash Course
+https://www.youtube.com/watch?v=XIGSJshYb90 
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=ikeO0v7vEAc&index=10&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k Mr. Houghton Intro to Data Stat 8min
+Objective: Describe the  sources of data appropriate for performing computations
+Intro: This lesson is a must watch before you leave a first year computer class, the word data can be confusing and this video should take away that confusion! 
+Questions:
+What’s the difference between digital and statistical data? How are they similar? 
+If someone was to tell a story about your life using only “data” what could they say?
+Who generates data?
+Where is data being stored?
+Use this list to answer the above 2 questions: cell phone data plans, science experiments, gps tracking, online shopping, taxes of accounting info, sports data
+What tools exist that allow us to analyze data? 
+What kind of meaning can you make from twitter data?
+What sources of data would be best for computers? 
+Alternative / Addition to me:
+H https://www.youtube.com/watch?v=DuDz6B4cqVc Crash course Data Structures 10min 
+Intro: I like this follow up video to mine b/c the words offset is used, along with many other vocab we’ve covered so far this semester.
+Questions:
+How is an “array” stored in memory?
+What does strcat do?
+What is a matrix?
+What format does a matrix take? 
+What would a struct be used for?
+What is a node? These can have linked lists, or a graph structure. 
+Answ
+Address, data
+Takes in 2 strings and copies a second one at the end of the first… too complex it prints out words
+Basically an array of arrays
+J[2][4] so two values next to each other in the array block 
+Storing bank account details so you might see 
+Struct account
+Var acctNum
+Var balance
+End Struct
+A data structure with a linked list, that basically has a pointer and variable in it
+MyNotes
+-wish we had time to research red/black trees and heaps! 
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://www.youtube.com/watch?v=nzV7xl5jQMw&index=11&list=PL5QYOqmT-UCiCpwqYJZfglZxzuWAtWm2k Mr. Houghton Meaningful Bits 7min
+Intro: I love this lesson b/c we talk about science that you should know already, ie electrons! 
+Questions:
+What’s the difference between the computer concept of a bit and the actual electrical wire?
+How many electrons make an “on” in flash storage?
+What is encoding similar to?
+What language does not use capital letters? 
+What is a memory address?
+Answ.
+One or zero vs. a certain voltage level
+A million
+Naming something, so when you call it… 
+Korean! 
+The location where data or an instruction is stored
+MyNotes
+-add, addr, addr
+Alternative / Addition to me:
+https://www.youtube.com/watch?v=jFDMZpkUWCw 7min Kevin Drumm
+Intro: If you can understand this process, you can begin coding at the lowest level possible. This is the process of using those bits, to make something happen, ultimately the output on your screen.
+Questions: 
+What is direct addressing? What is symbolic addressing?
+What is the accumulator?
+What does the program counter store?
+What are the three components working together to run this fetch, decode, and execute cycle? 
+Answ
+When you use numbers its direct, letters it’s symbolic
+Is a register that stores a value from two other registers
+Stores the address of the next line to be ran 
+The control unit, the accumulator, and the ALU so control what goes into the alu, so we can use the accumulator to add to it
+MyNotes
+-a computer is just a sophisticated adder machine
+-accumulator accumulates several values as time goes on…
+-things get exciting around the 7min mark
+-Fetch Decode Execute Cycle
+https://youtu.be/dOeS0yIGVu4 Hexadecimal Prof H 9:29
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: use a variety of strategies to solve hexadecimal related problems 
+Intro: I love hexadecimal, and all it takes is practice to get it right. I recommend taking Mr. Hex steps to get to the decimal. That means you have to cross the binary bridge! I offer some crazy hard challenges in this lesson, don’t get freaked out! Just try your best to hang! 
+Questions
+Explain how to convert hexadecimal to decimal. 
+What is 5F in decimal? In binary?
+What is a bitmap?
+What’s FD in decimal? 
+Using an ascii chart, what is the hexadecimal series for the word JPEG?
+What is the hexcode for Orange if the decimal is 255, 125, 0? 
+DOL: Take the ascii for CPU, add the hexcode 2f, 17, 24, and then tell me what the resulting word is.
+Alternative / Addition to me:
+https://youtu.be/LpuPe81bc2w techquickie binary systems and alphanumeric base systems! 
+Just an overview of how we got to where we are right now
+Monday Review
+ 1.Did you post a picture for each day's assignment last week? If not, tell me where you went back and replied again with a picture?
+2. Look for a picture from someone else that you like, what is it a picture of? 
+3. Quote someone from last week. "quote" -Name of Person
+4. What surprised you about last week?
+5. What was challenging? How does it relate to current events?
+6. What other reflective types of questions can I ask you all to answer?
+7.What lessons were learned from failure?
+8. What are your next steps? Which of those steps will come easiest? Where will the terrain become rocky? 
+9.What made you curious?
+10. How did I help you? How did I hinder you? What can I do tomorrow to help you more?
+11.How did you help the class? How did you hinder the class? What can you do
+ help tomorrow?
+Alternative / Addition to me:
+https://youtu.be/t_kA5KQxByc YouDoober how to conver hex to binary easily 5:40
+RAM
+https://www.youtube.com/watch?v=PVad0c2cljo 
+15min CertMaster
+Questions:
+What does RAM stand for?
+What does SDRAM stand for? What’s the difference?
+
+
+Answers
+Random…
+MyNotes
+-capacitors can’t hold a charge for long
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=PrXwe21biJo  Explaining PCIe Slots 11min ExplainingComputers
+Objective: Define the basic hardware and software concepts associated with personal computers
+Intro: PCIe slots are used to connect graphics cards, sound cards, other interface cards and some SSDs to PC motherboards. This video explains everything you need to know about PCIe slots, including PCIe slot sizes, lanes, versions and compatibility. Also included is a quick history of motherboard expansion slots from ISA to PCIe.
+Questions:
+What does PCI stand for?
+What is AGP?
+At what speed can PCIe 4.0 slots transfer data?
+Answers: 
+Peripheral Component Interconnect
+Accelerated Graphics Port
+1.97 GB/s
+MyNotes:
+-PCIe is a high speed slot/port/connector
+https://www.youtube.com/watch?v=SP0Brsc0dMY 
+M.2 SSDs 9min ExplainingComputers
+Intro: M.2.is one of the latest means of fitting a solid state drive (SSD) in a desktop This video explains the different M.2 specifications, as well as comparing M.2 with traditional 2.5” SATA SSDs.
+Questions:
+What is a form factor? 
+What is the significance of having m.2 memory that can fit into a PCIe slot? @7:00
+Drive bays are going away, why is this? 
+Answer:
+Size and Shape of a piece of hardware
+These slots will allow for a significantly more 
+Because technology like SSDs are making everything smaller! 
+
+PPCC Learning Outcome: Networking & Internet Terms
+Objective:https://www.youtube.com/watch?v=hT-uxqogR9w&t=170s Houghton 12min Networking in General
+https://www.youtube.com/watch?v=OQKYXcmSpFY  Everything you need to know about Cloud Computing 10min by Singularity guy
+What is Iaas? Paas? Saas? Faas?
+What is Bezos law?
+What are 2 popular cloud services?
+Do you listen to any cloud music providers? Who?
+
+
+
+https://youtu.be/f-4hxNKvEY0 Engadget “Mucho transistor info” but title is about Chiplets… 10min
+Questions
+What is 10 atoms across, (.2nm)?
+What is another name for die?
+Why does single core speed still matter?
+What is a chiplet?
+What’s monolithic mean?
+Name two chips that are 7nm small.
+------myNotes---------
+-intel’s 10nm chip is denser than the 7nm chip so, be careful with these numbers
+-Intel is targeting the low power market with Foveros, 1st chip is called LakeField
+Answers
+Some features of a cpu, so not a transistor, but still that’s interestingly small. To think these companies are engineering with that size in mind is crazy!
+Chip!
+Animation and gaming utilizes one core at a time sometimes so, it matters.
+The idea that multiple chips (chiplets) can work together and if one goes bad there is a backup.
+Everything is built on a continuous piece of silicon. (mono = one)
+Qualcomm’s snapdragon 855 and apples A12
+
