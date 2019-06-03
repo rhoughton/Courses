@@ -1,0 +1,217 @@
+https://youtu.be/gOTQW_Rwdjo Introduction to programming and the ability to solve problems Prof. H 7min
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: Identify connections between the ability to program & the ability to solve problems
+Questions
+Why’s it important for you to identify if you are in the zone or not? ESPECIALLY when learning about software? 
+Why is precision important to a programming language?
+Why do programming languages look so intimidating?
+What is an algorithm? 
+What’s the difference between low and high level programming? 
+T/F can there be a variety of algorithms created to solve the same problem? 
+Answers
+So you don’t get freaked out or frustrated.
+The content being displayed on your screen must be precisely what the user wanted.
+Those 3 concepts make programming intimidating. Precision, predictability, and unique (strange) terms all lend to the “scary” nature of programming.
+Variety
+True
+Alternative / Addition to me:
+https://youtu.be/c56x1aj2CPA PolyMAtter 1min How do hex color codes work?
+https://youtu.be/15aqFQQVBWU Code.org video 5min Images, Pixels, RGB
+
+https://youtu.be/D4Lq1D3DIRE high vs low level languages 7min Prof H 
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: distinguish between high and low level programming instructions
+Questions
+What does the word primitive mean in this context? 
+Why would it be helpful to code in assembly if you will be required to do SOOOO much more? 
+What is Machine Code? 
+What’s the difference between machine code and assembly?
+What is Perl?
+What is an “instruction stream” found @3:38? 
+What 3 things can a computer do?
+What type of numbers would come from the mouse? 
+DOL: 
+Two programmers walk into a job. 
+One tells the computer to: sort the list alphabetically and the built in functions of the language she chose, converts this to machine code.
+The second tells the computer to take the first name and compare it to the second. If the first letter is lower then put that name first. If they are the same, check the second letter. 
+Which programmer used a higher level language? 
+Alternative / Addition to me:
+Objective: Define the basic hardware and software concepts associated with personal computers 
+GPUs Explained (11min)
+https://www.youtube.com/watch?v=0_TN845dxUU 
+What is each point (corner) called?
+What is a matrix?
+What is a transformation? 
+What type of math do GPUs need to be good at? 
+What are CPUs good for? 
+What is the difference between serial and parallel processing?
+How many shader cores does the Mali T860 have?
+The Vulkan APi is likely replacing what? (starts with an O)
+
+https://youtu.be/Eb77TjWkywc creativity in algorithms H 8min
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: develop an algorithm to solve a problem.
+Questions
+Have you ever been creative with math or science?
+What is an algorithm? 
+ What does a compiler do? 
+Arduino Basics 101: Hardware Overview, Fundamental Code Commands https://youtu.be/BtLwoNJ6klE  8min GreatScott!
+Questions:
+What types of pins are on the right side?
+What type of pins are on the left?
+What does it mean to “pull the pin low?”
+What does ~ mean? What does it mean to have a pwm signal?
+The shorter the on time the ____ the LED will be. 
+What type of arduino is good for a breadboard? 
+
+Answer:
+Digtal pins
+Analog pins & power pins
+It means we have a zero, high would mean we have a one. 
+It means we can create a pwm signal, which means we can adjust it’s brightness.
+Darker
+arduino nano is good for a breadboard
+
+MyNotes
+-6 to 12 volts
+-you can power the board from the vcc pin
+-arduino microcontroller
+
+
+https://youtu.be/C0sgYpiJG0A?list=PL5QYOqmT-UCgUIvnwoRCVX5AJsIHAEQ27 Prof H Creating Functions
+https://code.org/educate/applab
+https://youtu.be/jyCcX2KTwOE?list=PL5QYOqmT-UCgUIvnwoRCVX5AJsIHAEQ27 prof H Top Down approach to Functions
+https://code.org/educate/applab
+https://youtu.be/JP9wQn4GG6U?list=PL5QYOqmT-UCgUIvnwoRCVX5AJsIHAEQ27 APi prof H
+https://code.org/educate/applab
+
+
+https://youtu.be/3mnNAwzJuoo?list=PL5QYOqmT-UCgUIvnwoRCVX5AJsIHAEQ27 Intro to Loops Prof H
+https://code.org/educate/applab 
+https://youtu.be/oEsSTv_krIw?list=PL5QYOqmT-UCgUIvnwoRCVX5AJsIHAEQ27 
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: 
+https://youtu.be/sCMVvr1ZeI0 good internet hygiene? Prof. H 22min
+What are three ways you can personally guard yourself with?
+What phone/desktop operating system do you use (and thus need to update)?
+Where are firewalls installed? (they are just software…)
+How many devices do you think you have at home?
+What is iOT?
+What does TNO stand for? Why should you approach everyone on the net this way?
+What is Censys & ShieldsUp? Is your home ip address vulnerable? 
+Why is monitoring the most important thing you can do? 
+myNotes
+-you will have to “trust” many things online, there is no way around it but try to limit when you can?
+
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: 
+https://youtu.be/s2bUvytWkQI Modding skyrim Prof H 11min
+Questions
+What is a file extension? What’s the name of Bethesda master files? 
+What is a plugin?
+What can be done with a plugin? Examples? 
+What is an extension? Can extensions contain a plugin?
+What is an .esp file?
+What is the folder directly above where the plugin data is stored?
+What is the difference between a 32 vs 64 bit system?
+
+https://www.youtube.com/watch?v=bKjSox0uwnk 8bit vs 10bit color 5min
+
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://youtu.be/jOj9BffhKdo Prof H 
+I think this is a great video to watch to see what is possible in the world of hardware and software.
+What is the goal of this hardware modification?
+What is a pcb board?
+What is a prototype? 
+What is a logic analyser? 
+What is a microcontroller? What’s the difference between this and a microprocessor (microcomputer)?
+ How many pins are on a standard A USB? What does usb stand for?
+What are the red, black and white wires used for?
+
+Linus Techquickie 5min
+Why is it useful to “embed” wires in a board of fiberglass? 
+What material are these “tracks” made of on a motherboard?
+Why isn’t it smart to drill your own holes in a (pcb)motherboard?
+What is a substrate?
+Answers
+To connect an xbox wireless controller to a n64
+Pcb is made using fiberglass and copper 
+A first attempt or first step in making something. So rough draft!
+A device for reading 10s off a wire so we can see what signals the controller is sending, without permission from microsoft or nintendo. Maybe the data is out there already, but if not we an use one of these.
+A microcontroller is like an all in one device, both the processor and the ram and sometimes other things are on a single chip. This is usually good for small scale computer building also known as embedded systems.
+4 pins, which can handle megabits or even gigabits of data per second. Just these 4 pins! Now according to google: Two pins are used for power and two pins are used for differential data transmission.
+Red is power, black is ground and white is data.
+So we can get the components to talk to each other efficiently, but also, in a small space.
+Copper
+ You could go through a trace! And ruin the whole board
+Substrate is a layer
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: 
+https://youtu.be/LloxM5UAajo?list=PL5QYOqmT-UCgUIvnwoRCVX5AJsIHAEQ27 Prof H Simple Commands
+
+https://youtu.be/O753uuutqH8 CC Computer Science 10min 
+Intro: We'll talk about how large programs are typically broken up into into function units that are nested into objects known as Object Oriented Programming, as well as how programmers write and debug their code efficiently, document and share their code with others, and also how code repositories are used to allow programmers to make changes while mitigating risk.  
+
+Objective: Describe how programs, or software, is built
+Questions:
+How many lines of code does Microsoft Office have? 
+What are “functions” relation to “objects?” Use ex. If you’d like.
+What is abstraction?
+Why is documentation important?
+What is an api? 
+Answers
+40 Million! (more than)
+Objects have many functions, and variables are used by functions.
+Abstraction is a way to view complex systems, we don’t worry about the tiny details above or below
+Documentation is important because code is usually developed in teams
+An api will give the right access between objects 
+MyNotes
+-source control is the same as “version” control and can be compared to a library, you can check things out and modify it, but if you change it in a bad way the commit might be rejected… mean librarian! 
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://youtu.be/q69Ihiub3aU Prof H 15min Hertz
+Objective: Differentiate the speed of computers using Hertz  
+
+
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://youtu.be/hvGLziyJM-Y Prof H 8008 processor 15min
+https://youtu.be/3gV-irEmI3Q Prof H part 2 11
+Objective: Take a deep dive into the building blocks on the 8008 processor 
+
+
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+https://youtu.be/Mmo3AjZcZRs Prof H 15min Registers
+Objective: Describe how registers in a cpu work.
+1.
+Learning Outcome: Define the basic hardware and software concepts associated with personal computers
+Objective: Reading Python
+Reading Python 0x01 Arrays 
+https://youtu.be/9qTlTH1gr_o 
+
+https://repl.it/ 
+Review
+1. Did you post a picture for each day's assignment last week? If not, tell me where you went back and replied again with a picture?
+2. Look for a picture from someone else that you like, what is it a picture of? 
+3. Quote someone from last week. "quote" -Name of Person
+4. What surprised you about last week?
+5. What was challenging? How does it relate to current events?
+6. What other reflective types of questions can I ask you all to answer?
+7.What lessons were learned from failure?
+8. What are your next steps? Which of those steps will come easiest? Where will the terrain become rocky? 
+9.What made you curious?
+10. How did I help you? How did I hinder you? What can I do tomorrow to help you more?
+11.How did you help the class? How did you hinder the class? What can you do
+ help tomorrow?
+Alternative / Addition to me:
+
+
+End of Year Lessons if we have time:
+Objective: Don’t get manipulated by computers! 
+https://youtu.be/kR76jXiSY_s Data Trends 10min Prof H
+https://youtu.be/h8511-yX4kU 11min Assumptions
+https://youtu.be/f25BSAAtIvQ cleaning data 9min 
+
+https://www.youtube.com/watch?v=4zguL33jLfw how to take apart android s6 active! 
