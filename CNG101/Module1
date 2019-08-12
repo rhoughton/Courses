@@ -1,0 +1,250 @@
+Module 1 Learning Outcomes
+Describe network applications and protocols. ✔
+Compare client/server and peer-to-peer network models.✔
+Identify key hardware devices and physical topologies.✔
+Explain the OSI model.✔
+-List safety practices when working with networks.
+Solve a networking problem using the seven-step troubleshooting model. ✔
+Describe computer addressing.✔
+Identify the functions of host names and domain names.✔
+Explain the purpose of ports and sockets at the OSI Transport layer.✔
+Describe how IP addresses are assigned and formatted.✔
+Solve network address issues using command-line tools.
+Describe the functions of key TCP/IP protocols.✔
+List the purposes and properties of routing.✔
+Implement TCP/IP utilities for network discovery and troubleshooting.✔
+---------------------------------------------------------
+Obj: Introduce Networking to Students! 
+To introduce basically networking watch my “Networking in general video” https://youtu.be/hT-uxqogR9w then watch this:
+https://www.youtube.com/watch?v=ls_VpXstPng&list=PL3UpcvaDU_Fm40XubNYmqy7qIG0DLfI3u 
+Questions
+What is networking?
+What does a terminal connect to?
+What is a “network aware” application?
+MyNotes
+-air pressure changes caused by your voice are picked up by a magnet inside of a mic and cause electrical signals based on that air pressure change
+
+Objective: Describe network applications and protocols. (how NAT works)
+https://www.youtube.com/watch?v=QBqPzHEDzvo Pieter Explains tech 10min
+Intro: I didn’t see the words network address translation in my learning outcomes list but I feel like that would fit under this obj, to describe an application that is being used on most LANs today: NAT! 
+Questions
+What is the purpose of NAT?
+What protocol assigns a private ip address?
+What does a NAT forwarding table do?
+What will “cure” awkward ip address swtich-a-roos?
+
+*Objective: Compare client/server and peer-to-peer network models 
+https://www.youtube.com/watch?v=3mjUqn7Uxz4 2 min Messer
+https://www.youtube.com/watch?v=aNHh8anZ1EI 5 min (all music, just words)
+-Intro- Today’s lesson will involve watching 2 videos to really hammer the difference between C/S and P2P networks. 
+If you didn’t know the difference between the words client and server, by the end of this lesson you WILL! (Monday?)
+What is an advantage of using a Server? (only 1 question for 1st vid)
+Draw a picture of the difference between p2p and c/s
+What makes an “administrator” special?
+What’s nice about p2p networks? @0:58
+In the picture analogy, what is a server akin to? What is a client like? (hint* kinda anti Mr. H teaching style)
+What type of network are you accessing when you are at home? When at school? When in Cuba?
+What is hive computing?
+What is the difference between p2p and c/s networks? 
+
+Obj Identify key hardware devices and physical topologies.  
+https://www.youtube.com/watch?v=sP3NqwgpJLk&index=2&list=PL3UpcvaDU_Fm40XubNYmqy7qIG0DLfI3u INE training 19min
+Introduction: Today’s lesson is the 2nd video in the CCNA series by INE and being the 2nd lesson this guy does a great job at covering vocabulary words that you should know already, but if you didn’t, he covers them well! 
+Questions:
+What is a LAN?
+How many wires are in a typical ethernet cable (RJ-45)?
+What is a db9 cable used for? (it’s a serial cable)
+MyNotes
+-Users employ VGA ports to transfer analog video signals from one machine to another using VGA cables. 
+The arrangement of the 15 pins on the VGA port is in three groups of five pins, lined up horizontally.
+-Video Graphics Array
+
+Objective: Explain the OSI model.
+https://www.youtube.com/watch?v=2y04idvl8lk&t=2s 
+Mr. Houghton
+
+Websites to visit to find this:
+Threat Post: https://threatpost.com/ (Links to an external site.)Links to an external site. 
+Low Level Programming Questions Answered: https://stackoverflow.com/questions/tagged/assembly (Links to an external site.)Links to an external site. 
+Well known security expert: https://krebsonsecurity.com/ (Links to an external site.)Links to an external site. 
+For fans of reddit like me: https://www.reddit.com/r/AskNetsec/ (Links to an external site.)Links to an external site. 
+https://www.darkreading.com/ (Links to an external site.)Links to an external site.
+https://www.theregister.co.uk/ (Links to an external site.)Links to an external site.
+https://thehackernews.com/ (Links to an external site.)Links to an external site. I've heard experts bash this website and say it's for "hipsters"
+https://nakedsecurity.sophos.com/ (Links to an external site.)Links to an external site.
+
+Objective: Describe how IP addresses are assigned and formatted.
+https://www.youtube.com/watch?v=RUZohsAxPxQ 7 min PieterExplainsTech
+Intro: DHCP is the way addresses are assigned, so basically all you need to be able to do is describe how DHCP works 
+and you can do that by identifying and elaborating on each of the 4 steps dhcp takes to establish an ip address! 
+Questions: 
+Why is manual ip address allocation a bad idea?
+What does broadcast mean?
+What is port 68/67 reserved for?
+What does a DHCP ack message mean?
+MyNotes
+-DHCP has a 4 step process
+-routers usually have a dhcp server built in
+-step 3 is DHCP request
+
+Objective: Solve a networking problem using the seven-step troubleshooting model. https://www.youtube.com/watch?v=G3C4vfL-mis 
+Intro: This video may have low camera quality but I really like this guys presentation style and at the end of the day all you have to do is know these 7 steps, and try your best to implement them once you get an IT job. 
+Questions
+What is step 1, why is this an important step to reflect on?
+Why is a low impact quick fix important?
+What is step 3, where would you go to get this?
+Step 5 is my favorite, what is it and what is “being tested?”
+Step 6 is escalate, why are some IT professionals hesitant to use this step?
+MyNotes
+-gather as much info as you can with step 1
+-step 2 try a quick fix! 
+-step 4 is Comparisons (especially with past vs present)
+-Step 7 Document and automate! 
+
+Objective: Describe current network addressing.
+Crash Course! Networking lesson https://www.youtube.com/watch?v=3QhU9jd03a0 12min
+Questions
+What is a collision?
+What is ethernet?
+Why is a random time interval used when a computer is waiting for the noise on a carrier to die down?
+What problem does TCP/IP take care of?
+MyNotes
+-I bet Netflix had to pay attention to possible routing problems, b/c those are some big “messages” they are sending through the internet. 
+
+Objective: Identify the functions of host names and domain names 
+https://www.youtube.com/watch?v=1ud15MTi9jI 
+Mr. Houghton “Network ID and Host ID” 
+
+Objective:Identify the functions of host names and domain names.
+https://www.youtube.com/watch?v=07nCGqksZyE&t=18s  Mr. Houghton
+Ports & Sockets 25min
+
+Objective: Solve network address issues using command-line tools.
+
+Objective: Describe the functions of key TCP/IP protocols.
+https://www.youtube.com/watch?v=8B6UzL3vc5c 
+Mr. Houghton TCP/IP Architecture 20min
+
+https://www.youtube.com/watch?v=zeArDrC2xPg prof messer 13min
+Objective:  List the purposes and properties of routing.
+Intro: To better wrap your mind around routers, and the concept of routing tables I’ve brought in a witty video from Prof. Messer. This is a great lesson to watch after all my subnetting lessons! We get to digest the router code a little bit more now, without looking at code! 
+Questions: 
+What is an example of a layer 3 device?
+What is a hop?
+What is a hop limit? 
+What is a loopback address?
+What is a routing table?
+What command can you type to view a routing table? 
+
+Obj: Implement TCP/IP utilities for network discovery and troubleshooting.
+https://www.youtube.com/watch?v=I1neBj0WeX0 Jacob Morrison (really good! Dry but good!) 19 min
+Intro: I like that this guy points out right away that you will be on the command line. Today we will do exactly what the obj is referring to, discover other computers on a network, and you’ll learn some command to troubleshoot any problems you may run into.
+Questions
+How do you open up the command line in Windows?
+What cmd gives you more information for ipconfig?
+How do you ask the dhcp server for a new ip address?
+What does the ping command do?
+MyNotes
+-In an “enterprise” (meaning business) environment your router and gateway may be different, but typically you only have one router in your home environment
+-while waiting for a computer to come up, rather than typing ping every 5 minutes you can type ping -t and it’ll ping continuously and you can stare or check that screen periodically if the machine is back up. To stop this command running forever just type ctrl C
+
+Obj: Implement TCP/IP utilities for network discovery and troubleshooting.
+https://www.youtube.com/watch?v=E4PhVqrhPxI 27min INEtraining
+Intro- Part 2 of this lesson this type we focus on the troubleshooting portion of the objective. Here we are going to troubleshoot an internet outage problem...
+Questions:
+What is a DNS cache?
+How do you find out what DNS server you are using?
+What is the problem that needed troubleshooting in this lesson? What were some strategies the speaker used to solve the problem?
+
+MyNotes
+-how do you fix a DNS cache problem (in the case that your computer is trying to access an older version of a particular website) 
+-why ping one of the DNS servers? To see if it’s alive! If it is, then verifying it works will help you move on to find what the problem could be, unless you need to change the ip address of your DNS.
+---------------------
+
+Objective; Identify key hardware devices and physical topologies.
+Routers 25 min Mr. Houghton
+https://www.youtube.com/watch?v=5jvVzCszwfU&t=2s 
+
+https://www.youtube.com/watch?v=fM9MLubiovc 
+UniFi Secure Gateway Lawrence Systems 15 min
+Questions:
+What’s the default IP?
+How will this device get an external IP?
+What’s the primary DNS for this gateway?
+What does deep packet inspection do? Maybe I should say, not do?
+MyNotes
+-non-routable ip (so private address?) yea he says ‘externally non-routable’
+-the firewall is not intuitive at all
+-firewall configuration is done through the command line 
+
+Objective Identify key hardware devices and physical topologies.
+Switches https://www.youtube.com/watch?v=-tXdr4Uu-fc Mr. Houghton 
+
+ https://www.youtube.com/watch?v=bnyCDTA6sME lawrence sys 26min
+Unifi 24&48 Port Switch Review
+Questions:
+What type of kernal is running this switch? (Hint* kernal refers to an op. sys)
+What would the console access go to? 
+Let’s look into the software now, what is the default way to assign an IP address?
+What does VLAN stand for? 
+MyNotes
+-12 chips 1 for each port 
+-the fans are thermal activated
+- lol @ the fingerprints that came with the switch! 
+-you can name the ports whatever you want, for example port 4 can be the “wifi” port
+-what’s the difference between uplink and downlink, I assume down is closer to the source… downriver? 
+
+Objective: List the purposes and properties of routing
+From my CSP class: Routing
+https://www.youtube.com/watch?v=K6GALGvQypY 
+
+Objective:  List the purposes and properties of routing. 
+https://www.youtube.com/watch?v=xPHjckRcTKo Prof Messer 15min
+Intro- a “basic” video from Prof. Messer who does a good job at giving you the purpose of routing. Lots of key words to be mindful here. 
+Questions:
+How does the router know what to do with traffic?
+What is IGP and EGP?
+BGP is the default protocol for the internet, what does this stand for?
+What is “the next hop?”
+MyNotes
+-RFC 1930 (clearly defined routing policy)
+-Interior and Exterior gateway protocols
+-RIP, EIGRP, RIPv2, needs to all get along and BGP does that. 
+-the lower the metric, the more likely we’ll use that route. It’s like a “ranking” system so the lower the # the more significant
+
+PowerShell! 
+https://www.youtube.com/watch?v=IHrGresKu2w Powershell for beginners 27min
+Objective: Solve network address issues using command-line tools.
+Intro: Skip to the 4min mark, his intro is not for us. 
+Question:
+What three services look interesting to you?
+What is an example of a parameter?
+What is an alias?
+When we are sharing “scripts” with eachother, what is a potential problem? (16:26)
+What do you type to get a specific process, lets say “MicrosoftEdge”
+What does pushing up arrow do?  What does pipe ( | ) mean?
+What’s the difference between method and property?
+MyNotes
+-right click > properties. To customize, make sure quickEdit mode is on so you can copy/paste
+-get-command -Noun service
+-this guy doesn’t like alias? Ok I suppose this is understandable. I like just typing “get-alias” to see all the commands I can use
+-to create a variable you can type “$zebra = Get-Process MicrosoftEdge
+Then type $zebra to make the thing happen 
+Cool use of methods $zebra.kill() 
+Get-Help is such an important command so get-help start-Transcript -ex will give examples :)
+
+Objective: Solve network address issues using command-line tools.
+https://www.youtube.com/watch?v=f9xPJXslVWE Manipulating Objects 23min Shane Young
+Intro: In Networking you’ll need to use scripts from time to time so today will give you an example of how to break a script down, very useful and a great beginners lesson as well. Throughout these powershell video’s it will be VERY helpful for you to type in these commands yourself. It’s like practice basketball, you don’t just practice by watching others play, though that’s a part of getting better, you practice by dribbling and shooting yourself. So shoot the ball! 
+Keep this original Script here so you can see his back and forth from the alias definitions:
+Get-PSDrive | ?{$_.Free -gt 1} | %{$Count = 0; Write-Host “ “‘} {#_.Name + "{0:N2}" -f ($_.Used/1gb) + " Free: " + "{0:N2}" -f ($_.free/1gb) + " Total: " + "{0:N2}" -f (($_.Used/1gb)+($_.Free/1gb)); $Count = $Count + $_.Free;}{Write-Host"";Write-Host "Total Free Space " ("{0:N2}" -f ($Count/1gb)) -backgroundcolor magenta}
+Questions
+Get-PSDrive does what?
+Select-Object * 
+ForEach-Object
+MyNotes
+-What is a ?... it means where-object
+-get-alias ? will help you answer this
+
+Objective: Solve network address issues using command-line tools.
+To be Continued...
