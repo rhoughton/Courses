@@ -1,0 +1,6 @@
+#Yesterday I learned about the urllib library where modules such as urlopen exist. Once I "open" a url, lots of data is stored in a variable
+#and I can manipulate that data in a variety of ways like read the response code and determine the length. 
+
+import urllib
+from urllib request
+var = request.urlopen("...")
